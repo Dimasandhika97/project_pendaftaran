@@ -1,6 +1,10 @@
 <!doctype html>
 <!--[if lt IE 8]><html class="no-js lt-ie8"> <![endif]-->
 <html class="no-js">
+    
+    
+    
+    
     <head>
         <meta charset="utf-8">
         <title>Dashboard | Dynamic Admin Template</title>
